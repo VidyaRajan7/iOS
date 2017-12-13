@@ -1,0 +1,6 @@
+
+target 'SQLiteSample' do
+ use_frameworks!
+    pod 'FMDB'
+
+ end
